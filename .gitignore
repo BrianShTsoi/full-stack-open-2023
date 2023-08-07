@@ -1,0 +1,21 @@
+# dependencies
+test/node_modules
+
+# testing
+test/coverage
+
+# production
+test/build
+
+part1/courseinfo/node_modules
+part1/courseinfo/coverage
+part1/courseinfo/build
+
+part1/unicafe/node_modules
+part1/unicafe/coverage
+part1/unicafe/build
+
+
+part2/phonebook/node_modules
+part2/phonebook/coverage
+part2/phonebook/build
